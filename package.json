@@ -1,0 +1,17 @@
+{
+  "name": "canvas-star",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon -w index.js"
+  },
+  "author": "Badar Tagar",
+  "license": "MIT",
+  "description": "This creates a star.png with yellow star in image.",
+  "dependencies": {
+    "canvas": "^3.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
